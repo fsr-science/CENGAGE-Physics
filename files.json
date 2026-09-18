@@ -1,0 +1,293 @@
+{
+  "type": "folder",
+  "name": "CENGAGE-Physics",
+  "children": [
+    {
+      "type": "folder",
+      "name": "CENPH01-MECHI",
+      "children": [
+        {
+          "type": "file",
+          "name": "CENPH01-MECHI01-DIMENSIONS_AND_MEASUREMENT.pdf",
+          "path": "CENPH01-MECHI/CENPH01-MECHI01-DIMENSIONS_AND_MEASUREMENT.pdf"
+        },
+        {
+          "type": "file",
+          "name": "CENPH01-MECHI02-BASIC_MATHEMATICS.pdf",
+          "path": "CENPH01-MECHI/CENPH01-MECHI02-BASIC_MATHEMATICS.pdf"
+        },
+        {
+          "type": "file",
+          "name": "CENPH01-MECHI03-VECTORS.pdf",
+          "path": "CENPH01-MECHI/CENPH01-MECHI03-VECTORS.pdf"
+        },
+        {
+          "type": "file",
+          "name": "CENPH01-MECHI04-KINEMATICS_I.pdf",
+          "path": "CENPH01-MECHI/CENPH01-MECHI04-KINEMATICS_I.pdf"
+        },
+        {
+          "type": "file",
+          "name": "CENPH01-MECHI05-KINEMATICS_II.pdf",
+          "path": "CENPH01-MECHI/CENPH01-MECHI05-KINEMATICS_II.pdf"
+        },
+        {
+          "type": "file",
+          "name": "CENPH01-MECHI06-NEWTON_S_LAWS_OF_MOTION_WITHOUT_FRICTION.pdf",
+          "path": "CENPH01-MECHI/CENPH01-MECHI06-NEWTON_S_LAWS_OF_MOTION_WITHOUT_FRICTION.pdf"
+        },
+        {
+          "type": "file",
+          "name": "CENPH01-MECHI07-NEWTON_S_LAWS_OF_MOTION_WITH_FRICTION.pdf",
+          "path": "CENPH01-MECHI/CENPH01-MECHI07-NEWTON_S_LAWS_OF_MOTION_WITH_FRICTION.pdf"
+        },
+        {
+          "type": "file",
+          "name": "CENPH01-MECHI08-WORK_ENERGY_AND_POWER.pdf",
+          "path": "CENPH01-MECHI/CENPH01-MECHI08-WORK_ENERGY_AND_POWER.pdf"
+        },
+        {
+          "type": "file",
+          "name": "CENPH01-MECHI09-CIRCULAR_MOTION.pdf",
+          "path": "CENPH01-MECHI/CENPH01-MECHI09-CIRCULAR_MOTION.pdf"
+        }
+      ]
+    },
+    {
+      "type": "folder",
+      "name": "CENPH02-MECHII",
+      "children": [
+        {
+          "type": "file",
+          "name": "CENPH02-MECHII01-SYSTEM_OF_PARTICLES_AND_CENTRE_OF_MASS.pdf",
+          "path": "CENPH02-MECHII/CENPH02-MECHII01-SYSTEM_OF_PARTICLES_AND_CENTRE_OF_MASS.pdf"
+        },
+        {
+          "type": "file",
+          "name": "CENPH02-MECHII02-IMPULSE_AND_COLLISION.pdf",
+          "path": "CENPH02-MECHII/CENPH02-MECHII02-IMPULSE_AND_COLLISION.pdf"
+        },
+        {
+          "type": "file",
+          "name": "CENPH02-MECHII03-RIGID_BODY_DYNAMICS_PART_1.pdf",
+          "path": "CENPH02-MECHII/CENPH02-MECHII03-RIGID_BODY_DYNAMICS_PART_1.pdf"
+        },
+        {
+          "type": "file",
+          "name": "CENPH02-MECHII04-RIGID_BODY_DYNAMICS_PART_2.pdf",
+          "path": "CENPH02-MECHII/CENPH02-MECHII04-RIGID_BODY_DYNAMICS_PART_2.pdf"
+        },
+        {
+          "type": "file",
+          "name": "CENPH02-MECHII05-GRAVITATION.pdf",
+          "path": "CENPH02-MECHII/CENPH02-MECHII05-GRAVITATION.pdf"
+        },
+        {
+          "type": "file",
+          "name": "CENPH02-MECHII06-FLUID_MECHANICS.pdf",
+          "path": "CENPH02-MECHII/CENPH02-MECHII06-FLUID_MECHANICS.pdf"
+        },
+        {
+          "type": "file",
+          "name": "CENPH02-MECHII07-ELASTICITY.pdf",
+          "path": "CENPH02-MECHII/CENPH02-MECHII07-ELASTICITY.pdf"
+        },
+        {
+          "type": "file",
+          "name": "CENPH02-MECHII08-SURFACE_TENSION_AND_VISCOSITY.pdf",
+          "path": "CENPH02-MECHII/CENPH02-MECHII08-SURFACE_TENSION_AND_VISCOSITY.pdf"
+        }
+      ]
+    },
+    {
+      "type": "folder",
+      "name": "CENPH03-THSW",
+      "children": [
+        {
+          "type": "file",
+          "name": "CENPH03-THSW01-THERMOMETRY_THERMAL_EXPANSION_AND_CALORIMETRY.pdf",
+          "path": "CENPH03-THSW/CENPH03-THSW01-THERMOMETRY_THERMAL_EXPANSION_AND_CALORIMETRY.pdf"
+        },
+        {
+          "type": "file",
+          "name": "CENPH03-THSW02-TRANSMISSION_OF_HEAT.pdf",
+          "path": "CENPH03-THSW/CENPH03-THSW02-TRANSMISSION_OF_HEAT.pdf"
+        },
+        {
+          "type": "file",
+          "name": "CENPH03-THSW03-KINETIC_THEORY_OF_GASES.pdf",
+          "path": "CENPH03-THSW/CENPH03-THSW03-KINETIC_THEORY_OF_GASES.pdf"
+        },
+        {
+          "type": "file",
+          "name": "CENPH03-THSW04-THERMODYNAMICS.pdf",
+          "path": "CENPH03-THSW/CENPH03-THSW04-THERMODYNAMICS.pdf"
+        },
+        {
+          "type": "file",
+          "name": "CENPH03-THSW05-LINEAR_AND_ANGULAR_SIMPLE_HARMONIC_MOTION.pdf",
+          "path": "CENPH03-THSW/CENPH03-THSW05-LINEAR_AND_ANGULAR_SIMPLE_HARMONIC_MOTION.pdf"
+        },
+        {
+          "type": "file",
+          "name": "CENPH03-THSW06-TRAVELLING_WAVES.pdf",
+          "path": "CENPH03-THSW/CENPH03-THSW06-TRAVELLING_WAVES.pdf"
+        },
+        {
+          "type": "file",
+          "name": "CENPH03-THSW07-SUPERPOSITION_AND_STANDING_WAVES.pdf",
+          "path": "CENPH03-THSW/CENPH03-THSW07-SUPERPOSITION_AND_STANDING_WAVES.pdf"
+        },
+        {
+          "type": "file",
+          "name": "CENPH03-THSW08-SOUND_WAVES_AND_DOPPLER_EFFECT.pdf",
+          "path": "CENPH03-THSW/CENPH03-THSW08-SOUND_WAVES_AND_DOPPLER_EFFECT.pdf"
+        }
+      ]
+    },
+    {
+      "type": "folder",
+      "name": "CENPH04-ELEC",
+      "children": [
+        {
+          "type": "file",
+          "name": "CENPH04-ELEC01-COULOMB_S_LAW_AND_ELECTRIC_FIELD.pdf",
+          "path": "CENPH04-ELEC/CENPH04-ELEC01-COULOMB_S_LAW_AND_ELECTRIC_FIELD.pdf"
+        },
+        {
+          "type": "file",
+          "name": "CENPH04-ELEC02-ELECTRIC_FLUX_AND_GAUSS_S_LAW.pdf",
+          "path": "CENPH04-ELEC/CENPH04-ELEC02-ELECTRIC_FLUX_AND_GAUSS_S_LAW.pdf"
+        },
+        {
+          "type": "file",
+          "name": "CENPH04-ELEC03-ELECTRIC_POTENTIAL.pdf",
+          "path": "CENPH04-ELEC/CENPH04-ELEC03-ELECTRIC_POTENTIAL.pdf"
+        },
+        {
+          "type": "file",
+          "name": "CENPH04-ELEC04-CAPACITOR_AND_CAPACITANCE.pdf",
+          "path": "CENPH04-ELEC/CENPH04-ELEC04-CAPACITOR_AND_CAPACITANCE.pdf"
+        },
+        {
+          "type": "file",
+          "name": "CENPH04-ELEC05-ELECTRIC_CURRENT_AND_CIRCUITS.pdf",
+          "path": "CENPH04-ELEC/CENPH04-ELEC05-ELECTRIC_CURRENT_AND_CIRCUITS.pdf"
+        },
+        {
+          "type": "file",
+          "name": "CENPH04-ELEC06-ELECTRICAL_MEASURING_INSTRUMENTS.pdf",
+          "path": "CENPH04-ELEC/CENPH04-ELEC06-ELECTRICAL_MEASURING_INSTRUMENTS.pdf"
+        },
+        {
+          "type": "file",
+          "name": "CENPH04-ELEC07-HEATING_EFFECTS_OF_CURRENT.pdf",
+          "path": "CENPH04-ELEC/CENPH04-ELEC07-HEATING_EFFECTS_OF_CURRENT.pdf"
+        }
+      ]
+    },
+    {
+      "type": "folder",
+      "name": "CENPH05-MAG",
+      "children": [
+        {
+          "type": "file",
+          "name": "CENPH05-MAG01-MAGNETIC_FIELD_AND_MAGNETIC_FORCES.pdf",
+          "path": "CENPH05-MAG/CENPH05-MAG01-MAGNETIC_FIELD_AND_MAGNETIC_FORCES.pdf"
+        },
+        {
+          "type": "file",
+          "name": "CENPH05-MAG02-SOURCES_OF_MAGNETIC_FIELD.pdf",
+          "path": "CENPH05-MAG/CENPH05-MAG02-SOURCES_OF_MAGNETIC_FIELD.pdf"
+        },
+        {
+          "type": "file",
+          "name": "CENPH05-MAG03-PERMANENT_MAGNETS_AND_MAGNETIC_PROPERTIES_OF_MATTER.pdf",
+          "path": "CENPH05-MAG/CENPH05-MAG03-PERMANENT_MAGNETS_AND_MAGNETIC_PROPERTIES_OF_MATTER.pdf"
+        },
+        {
+          "type": "file",
+          "name": "CENPH05-MAG04-ELECTROMAGNETIC_INDUCTION.pdf",
+          "path": "CENPH05-MAG/CENPH05-MAG04-ELECTROMAGNETIC_INDUCTION.pdf"
+        },
+        {
+          "type": "file",
+          "name": "CENPH05-MAG05-INDUCTANCE.pdf",
+          "path": "CENPH05-MAG/CENPH05-MAG05-INDUCTANCE.pdf"
+        },
+        {
+          "type": "file",
+          "name": "CENPH05-MAG06-ALTERNATING_CURRENT.pdf",
+          "path": "CENPH05-MAG/CENPH05-MAG06-ALTERNATING_CURRENT.pdf"
+        },
+        {
+          "type": "file",
+          "name": "CENPH05-MAG07-ELECTROMAGNETIC_WAVES.pdf",
+          "path": "CENPH05-MAG/CENPH05-MAG07-ELECTROMAGNETIC_WAVES.pdf"
+        }
+      ]
+    },
+    {
+      "type": "folder",
+      "name": "CENPH06-OPT",
+      "children": [
+        {
+          "type": "file",
+          "name": "CENPH06-OPT01-GEOMETRICAL_OPTICS_PART_1.pdf",
+          "path": "CENPH06-OPT/CENPH06-OPT01-GEOMETRICAL_OPTICS_PART_1.pdf"
+        },
+        {
+          "type": "file",
+          "name": "CENPH06-OPT02-GEOMETRICAL_OPTICS_PART_2.pdf",
+          "path": "CENPH06-OPT/CENPH06-OPT02-GEOMETRICAL_OPTICS_PART_2.pdf"
+        },
+        {
+          "type": "file",
+          "name": "CENPH06-OPT03-WAVE_OPTICS.pdf",
+          "path": "CENPH06-OPT/CENPH06-OPT03-WAVE_OPTICS.pdf"
+        },
+        {
+          "type": "file",
+          "name": "CENPH06-OPT04-DIFFRACTION_AND_POLARIZATION.pdf",
+          "path": "CENPH06-OPT/CENPH06-OPT04-DIFFRACTION_AND_POLARIZATION.pdf"
+        }
+      ]
+    },
+    {
+      "type": "folder",
+      "name": "CENPH07-MODP",
+      "children": [
+        {
+          "type": "file",
+          "name": "CENPH07-MODP01-DUAL_NATURE_OF_RADIATION_AND_MATTER.pdf",
+          "path": "CENPH07-MODP/CENPH07-MODP01-DUAL_NATURE_OF_RADIATION_AND_MATTER.pdf"
+        },
+        {
+          "type": "file",
+          "name": "CENPH07-MODP02-ATOMIC_PHYSICS.pdf",
+          "path": "CENPH07-MODP/CENPH07-MODP02-ATOMIC_PHYSICS.pdf"
+        },
+        {
+          "type": "file",
+          "name": "CENPH07-MODP03-NUCLEAR_PHYSICS.pdf",
+          "path": "CENPH07-MODP/CENPH07-MODP03-NUCLEAR_PHYSICS.pdf"
+        },
+        {
+          "type": "file",
+          "name": "CENPH07-MODP04-SEMICONDUCTOR_DEVICES_AND_DIGITAL_CIRCUITS.pdf",
+          "path": "CENPH07-MODP/CENPH07-MODP04-SEMICONDUCTOR_DEVICES_AND_DIGITAL_CIRCUITS.pdf"
+        },
+        {
+          "type": "file",
+          "name": "CENPH07-MODP05-COMMUNICATION_SYSTEMS.pdf",
+          "path": "CENPH07-MODP/CENPH07-MODP05-COMMUNICATION_SYSTEMS.pdf"
+        }
+      ]
+    },
+    {
+      "type": "file",
+      "name": "README.md",
+      "path": "README.md"
+    }
+  ]
+}
